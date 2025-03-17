@@ -1,0 +1,1 @@
+Use alphabet as it is instead of subtracting 26. Problem was accessing invalid memory
